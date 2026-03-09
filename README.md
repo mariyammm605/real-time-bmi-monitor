@@ -88,5 +88,5 @@ All source codes are available in the **code folder**.
 ---
 
 📊 **Presentation Slides**  
-[Click here to view the presentation](docs/BMI_Project_Presentation.pptx)
+[Click here to view the presentation](docs/Real-Time_BMI_Monitor_.pptx)
 
