@@ -56,15 +56,13 @@ These components together implement the BMI classification logic. :contentRefere
 
 ## Circuit Diagram
 
-![Circuit Diagram](images/circuitt_diagram.jpg)
+![Circuit Diagram](images/circuitt_diagram.jpeg)
 
 ---
 
 ## Hardware Implementation
 
-![Hardware Setup](images/hardware_setup.jpg)
-
-The hardware setup uses breadboards and discrete logic ICs to implement the BMI classification system. :contentReference[oaicite:1]{index=1}
+![Hardware Setup](images/photo_setup.jpeg)
 
 ---
 
@@ -84,6 +82,13 @@ All source codes are available in the **code folder**.
 
 ## Documentation
 
-Complete project documentation:
+Complete project report:
 
-Project Report  
+docs/BMI_Project_Report.pdf
+
+---
+
+Complete project presentation:
+
+docs/BMI_Project_Presentation.pptx
+
