@@ -82,13 +82,11 @@ All source codes are available in the **code folder**.
 
 ## Documentation
 
-Complete project report:
-
-docs/BMI_Project_Report.pdf
+📄 **Project Report**  
+[Click here to view the report](docs/BMI_Project_Report.pdf)
 
 ---
 
-Complete project presentation:
-
-docs/BMI_Project_Presentation.pptx
+📊 **Presentation Slides**  
+[Click here to view the presentation](docs/BMI_Project_Presentation.pptx)
 
